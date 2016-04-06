@@ -1,0 +1,11 @@
+{
+  "name": "ipfsRequester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.70.0"
+  }
+}
